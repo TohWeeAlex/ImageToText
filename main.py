@@ -33,7 +33,7 @@ def transcribing(pdf_Filepath):
 
     merger = PdfWriter()
 
-    # Loop over pages and convert pages to jpg
+    # Loop over pages and convert pages to png
     with alive_bar(len(pdfReader)) as bar:
         for i in range(len(pdfReader)):
             page = pdfReader.load_page(i)
