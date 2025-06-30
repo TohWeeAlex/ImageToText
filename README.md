@@ -1,2 +1,2 @@
 # ImageToText
-To use the script you will need to download [Link text](https://github.com/UB-Mannheim/tesseract/wiki 'Tesseract-OCR')
+To use the script you will need to download [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki)
